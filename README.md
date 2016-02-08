@@ -27,3 +27,9 @@ Salvador, Jessie
 - The Rules of Inference was introduced
 - Discussed the concept of Tautology
 - Discussed the difference between Truth and Validity.
+
+# Week 4
+- The different types of proofs were introduced.
+- Emphasized the difference between "Contraposition" and "Contradiction"
+- Went through an exercise of Mathematical Induction. (Basis and Inductive)
+- Discussed Recursive/Inductive "Definition"; A definition, not a proof.
