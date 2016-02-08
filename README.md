@@ -11,9 +11,12 @@ Salvador, Jessie
 # Week 2
 - Logical Connectives were discussed (their meaning, uses and symbols).
 -- Focused more on conditional and began looking at the difference with biconditional.
+
 | Logical Symbol  |  Logical Operator | Usage |
+| :-----: |:-------:|:-----:|
 | → | Conditional | if, then |
 | ↔ | Biconditional | iff |
+
 - The truth table was introduced.
 - Identified parts of sentences (subject and predicate)
 - Discussed Predicate Logic and Quantifiers (their cases and symbols)
