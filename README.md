@@ -33,3 +33,14 @@ Salvador, Jessie
 - Emphasized the difference between "Contraposition" and "Contradiction"
 - Went through an exercise of Mathematical Induction. (Basis and Inductive)
 - Discussed Recursive/Inductive "Definition"; A definition, not a proof.
+
+# Week 5
+- Discussed the steps of checking program correctness.
+- Discussed Power Series and Zeno's Paradox (which was proven not valid).
+- Began discussion on Sets.
+- 
+#Week 6
+- Discussed functions:
+    - One-to-One
+    - Onto
+    - Not A function (Relation) (ex. radical x)
