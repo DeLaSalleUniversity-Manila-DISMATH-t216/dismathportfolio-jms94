@@ -38,9 +38,43 @@ Salvador, Jessie
 - Discussed the steps of checking program correctness.
 - Discussed Power Series and Zeno's Paradox (which was proven not valid).
 - Began discussion on Sets.
-- 
-#Week 6
+
+# Week 6
 - Discussed functions:
     - One-to-One
     - Onto
     - Not A function (Relation) (ex. radical x)
+
+# Week 7
+- Working on MIT App Inventor
+
+# Week 8
+- Discussed Algotirthms
+- Started on Psuedocodes (Parts of a psuedocode):
+    - Input
+    - Output
+    - Definiteness
+    - Correctness
+    - Finiteness
+    - Generality
+
+# Week 9
+- Discussed "Sets"
+- Specific Algorithms were discussed:
+    - Finding Maximum
+    - Finding Minimum
+    - Linear Search
+    - Binary Search
+
+# Week 10
+- Discussed more specific algorithms:
+    - Bubble Sort
+    - Insertion Sort
+    - Greedy
+
+# Week 11
+- Growth Functions
+- The "BIG" Notations:
+    - Big-O
+    - Big-Theta
+    - Big-Omega
