@@ -75,6 +75,23 @@ Salvador, Jessie
 # Week 11
 - Growth Functions
 - The "BIG" Notations:
-    - Big-O
-    - Big-Theta
-    - Big-Omega
+    - Big-O (upper bound)
+    - Big-Theta (upper and lower bound)
+    - Big-Omega (lower bound)
+
+# Week 13
+- Graph Theory, G=(V,E); Wherein V = Vertices/Nodes and E = Edges
+- Handhshake Theorem: 2e= Σ(degrees)*v; used to solve for one of the three (edges, degrees, vertices).
+- Euler
+    - Euler Path (Passes through all "edges" exactly once, Vfinal does not equal Vinitial [open])
+    - Euler Circuit (Passes through all the "edges" exactly once AND Vfinal equal Vinitial [Close])
+- Hamilton
+    - Hamilton Path (Passes through all "nodes" exactly once [open])
+    - Hamilton Circuit (Passes through all "nodes" exactly once AND Vfinal=Vinitial [Close])
+- Graphs
+    - Isomorphic Graphs: Similar graphs, only orientation is different.
+    - Planar Graphs: Edges do not cross over.
+    - Euler's Formula: Regions = Edges - Vertices + 2
+    - Kuratowski's Theorem: If a graph contoins a subraph similar to a K3 or K5, it is nonplanar.
+
+    
