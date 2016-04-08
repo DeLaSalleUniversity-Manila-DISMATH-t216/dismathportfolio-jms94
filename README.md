@@ -94,4 +94,38 @@ Salvador, Jessie
     - Euler's Formula: Regions = Edges - Vertices + 2
     - Kuratowski's Theorem: If a graph contoins a subraph similar to a K3 or K5, it is nonplanar.
 
-    
+- Graph Coloring
+    - No adjacent nodes share the same color
+    - Chromatic Number x(G): Least amount of colors needed for a graph.
+    - Four Color Theorem: The chromatic number of a planar graph is no greater than four.
+    - Cycles (Cn): for every odd number n, chromatic number is 3; for every even number n, chromatic number is 2.
+    - In Complete Graphs, Kn, the chromatic number is n.
+
+- Tree
+    - An undirected graph with no simple circuits
+    - Similar to a flowchart, used for tracking history.
+    - Parts of a tree: parent, sibglings, child, ancestors, descendants, leaf and internal vertices.
+    - Forest: more than one tree.
+    - Rooted Tree: A tree with one vertex designated as the root (core) and every edge is directed away from the root.
+    - M-ary Tree: Rooted tree wherein all internal vertices have exactly m amount of children.
+    - Binary Tree: M-ary tree wherein m=2.
+    - Subtree
+
+- Modeling Computation
+    - Language and Grammars
+    - Grammar: used to generate the words of a language and to determine whether a word is in a language.
+    - Formal Language: A form with a well defined set of rules.
+    - Compiler: Reads a program code from a source language and translates to a targeted programming language.
+    - Syntax is important.
+
+- Automata Theory
+    - Studies the law of computation.
+    - Finite-State Machines such as Vending Machines.
+        - Tracing
+        - Reading Graphs
+
+- Turing Machine
+    - Invented by Alan Turing in 1937.
+    - Alan Turing helped in cracking the enigma code during World Wa II.
+    - The turing machine is a programmable read/write machine that can run ANY computer algorithm.
+    - Noteable video to watch: The Imitation Game (2014).
